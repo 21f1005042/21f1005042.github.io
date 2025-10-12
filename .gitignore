@@ -8,6 +8,11 @@ __pycache__/
 .pytest_cache/
 .coverage
 
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
 # Env
 .env
 venv/
